@@ -1,0 +1,7 @@
+gradio
+torch
+torchvision
+tensorflow
+keras
+groq
+Pillow
